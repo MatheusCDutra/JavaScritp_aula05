@@ -10,4 +10,8 @@ function criarArray(nome, idade, curso){
 }
 
 //chamando a função
-criarArray('Carlos', 31, 'JavaScript');
+let nome = prompt('Digite seu nome: ')
+let idade = Number(prompt('Digite sua idade: '))
+let curso = prompt('Digte seu curso: ')
+
+criarArray(nome, idade, curso);
