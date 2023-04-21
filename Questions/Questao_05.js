@@ -1,5 +1,6 @@
-//5. Crie uma função. Dentro da função leia 10 números. Se o número for par, adicione o número em um array de pares. 
-//Se o número for ímpar adicione-o em um array de ímpares.
+/* 5. Crie uma função. Dentro da função leia 10 números. Se o número for par, adicione o número em um array de pares. 
+Se o número for ímpar adicione-o em um array de ímpares.*/
+
 
 
 function parImpar() {
